@@ -19,7 +19,8 @@
   
   ## 💻 Interest
   <!--Python-->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/Python.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/python.svg" />
   <br/>
   
   ## 🤔 Stats
