@@ -22,9 +22,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Seongmin Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
