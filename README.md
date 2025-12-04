@@ -16,8 +16,7 @@
   #### :raising_hand: I am a Student from South Korea.<br/>
   #### :mortar_board: Currently enrolled in Artificial Intelligence Software, Dongyang University (DMU)
   <br/>
-  <br/>
-
+  
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
@@ -26,14 +25,14 @@
   
   ## 🤔 Stats
   
-  [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+  [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)]
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)]
 
   <br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)](https://solved.ac/mrmoono/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)]
   
 </div>
 
