@@ -32,7 +32,7 @@
  [![seongminkim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)]
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mrmoono)](https://solved.ac/mrmoono)
   
 </div>
 
