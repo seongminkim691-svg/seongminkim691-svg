@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
   #### :mortar_board: Currently enrolled in Artificial Intelligence Software, Dongyang University (DMU)
-  #### 📫: seongminkim691@gmail.com
+  #### 📫 seongminkim691@gmail.com
   <br/>
   <br/>
   
