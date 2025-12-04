@@ -34,7 +34,7 @@
  
   <br/>
   
-   [![seongminkim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/?username=seongminkim691-svg&show_icons=true&rank_icon=github" width="400"></img>
 
   <br/>
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img>
