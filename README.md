@@ -19,7 +19,7 @@
   
   ## 💻 Interest
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/Python.svg" />
   <br/>
   
   ## 🤔 Stats
