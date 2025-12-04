@@ -25,11 +25,11 @@
   
   ## 🤔 Stats
   
-  [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)]
+ [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)]
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)]
