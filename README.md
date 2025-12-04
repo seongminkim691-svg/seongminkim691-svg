@@ -29,7 +29,7 @@
   
   ## 🤔 Stats
   
-   [![SeongminKim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+  [![SeongminKim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
  
   <br/>
   
