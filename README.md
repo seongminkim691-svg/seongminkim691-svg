@@ -26,6 +26,7 @@
   ## 🤔 Stats
   
  [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+ ![seongminkim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg&show_icons=true&theme=dark)
   
   <br/>
   
