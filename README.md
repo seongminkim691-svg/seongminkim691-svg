@@ -25,14 +25,14 @@
   
   ## 🤔 Stats
   
- [![SeongminKim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+   [![SeongminKim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
  
   <br/>
   
- [![seongminkim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+   [![seongminkim691-svg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)](https://solved.ac/mrmoono/)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)](https://solved.ac/mrmoono/)
   
 </div>
 
