@@ -24,6 +24,7 @@
   <a href="https://instagram.com/mr_mooono" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mooono" height="30" width="40" /></a>
 </p>
+<br/>
   
   ## 🧱 Tech Stack
   ### Language
