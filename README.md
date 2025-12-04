@@ -36,7 +36,7 @@
   - **GitHub Stats**<br>
   <img alt="SeongminKim's Github Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
   
-  - **Top langs**<br>
+  - **Top Langs**<br>
   <img alt="SeongminKim's Github Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
   
   - **Baekjoon**<br>
