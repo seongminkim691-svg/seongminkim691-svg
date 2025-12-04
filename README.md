@@ -18,9 +18,7 @@
 <a href="mailto:seongminkim691@gmail.com" target="_blank">
 <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335"/>
 </a>
-
-&nbsp
-
+&nbsp;
 <!--instagram-->
 <a href="https://www.instagram.com/mr_moono_/" target="_blank">
 <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/FF0069"/>
