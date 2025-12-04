@@ -14,6 +14,15 @@
   <br/>
 
   ## 📫 Contacts
+<!--Gmail-->
+<a href="mailto:seongminkim691@gmail.com" target="_blank">
+<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335"/>
+</a>
+
+<!--instagram-->
+<a href="https://www.instagram.com/mr_moono_/" target="_blank">
+<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/FF0069"/>
+</a>
 
 <br/>
   
