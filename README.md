@@ -28,7 +28,7 @@
  
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="SeongminKim's Github Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=true"/>
 
 
   <br/>
