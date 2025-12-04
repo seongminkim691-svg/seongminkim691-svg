@@ -23,16 +23,15 @@
   <br/>
   
   ## 🤔 Stats
-  
+
+  -GitHub Stats  
   <img align="left" alt="SeongminKim's Github Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=true"/>
  
   <br/>
-  
+  -GitHub Top langs
   <img align="left" alt="SeongminKim's Github Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=true"/>
 
-  <br/>
-
-
+  -Baekjoon Rank
   <br/>
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img>
    <div/>
