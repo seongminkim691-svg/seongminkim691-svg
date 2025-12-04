@@ -25,10 +25,13 @@
   
   ## 🤔 Stats
   - **GitHub Stats**
+  <br>
   <img alt="SeongminKim's Github Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=true"/><br>
   - **Top langs**
+    <br>
   <img alt="SeongminKim's Github Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=true"/><br>
   - **Baekjoon**
+    <br>
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img><br>
    <div/>
 
