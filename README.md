@@ -13,20 +13,25 @@
   #### :mortar_board: Currently enrolled in Artificial Intelligence Software, Dongyang University (DMU)
   <br/>
   <br/>
-  
+  ## 📫Contact
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongminkim691@gmail.com)](mailto:seongminkim691@gmail.com)
+
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <br/>
   
-  ## 🤔 Github Stats
+  ## 🤔 Stats
   
   [![SeongminKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono)](https://solved.ac/mrmoono/)
   
 </div>
 
