@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text=SeongMin's%20Space&fontsize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=SeongMin's%20Space&fontsize=90)
   
 </div>
 
@@ -23,8 +23,6 @@
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  *언어 순위 
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongminkim691-svg)](https://github.com/anuraghazra/github-readme-stats)
   
