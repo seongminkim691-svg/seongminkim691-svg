@@ -17,7 +17,7 @@
   <a href="mailto:seongminkim691@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-  <a href="https://instagram.com/mr_mooono" target="blank">
+  <a href="https://instagram.com/mr_mooono_" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mooono" height="30" width="40" /></a>
 </p>
 <br/>
