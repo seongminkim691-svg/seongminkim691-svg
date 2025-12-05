@@ -39,7 +39,7 @@
   - **Top Langs**<br>
   <img alt="SeongminKim's GitHub Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
 
-  <img alt="SeongminKim's GitHub Gist" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/pin/?username=seongminkim691-svg&repo=github-readme-stats"/>
+  <img alt="SeongminKim's Waka Time" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/wakatime?username=seongminkim691-svg"/>
   
   - **Baekjoon**<br>
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img><br>
