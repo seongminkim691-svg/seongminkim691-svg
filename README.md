@@ -34,10 +34,12 @@
   
   ## 🤔 Stats
   - **GitHub Stats**<br>
-  <img alt="SeongminKim's Github Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
+  <img alt="SeongminKim's GitHub Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
   
   - **Top Langs**<br>
-  <img alt="SeongminKim's Github Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
+  <img alt="SeongminKim's GitHub Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
+
+  <img alt="SeongminKim's GitHub Gist" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d"/>
   
   - **Baekjoon**<br>
    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img><br>
