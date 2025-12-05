@@ -24,11 +24,13 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/FF0069"/>
 </a>
 <br/>
+<br/>
   
   ## 💻 Interests
   - **Languages**
   <!--Python-->
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />
+  <br/>
   <br/>
   
   ## 🤔 Stats
