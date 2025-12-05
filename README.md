@@ -35,7 +35,7 @@
   
   ## 🤔 Stats
   - **GitHub Stats**<br>
-  <img alt="SeongminKim's GitHub Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=false&include_all_commits=true&locale=kr&include_all_contribs=true"/><br>
+  <img alt="SeongminKim's GitHub Stats" src="https://github-readme-stats-orcin-theta-33.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide_border=false&include_all_commits=true&locale=kr&all_contribs=true"/><br>
   
   - **Top Langs**<br>
   <img alt="SeongminKim's GitHub Top langs" src="https://github-readme-stats-orcin-theta-33.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false&locale=kr"/><br>
