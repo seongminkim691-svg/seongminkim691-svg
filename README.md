@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
-  #### 👨‍🎓 Currently enrolled in Artificial Intelligence Software, Dongyang University (DMU)
+  #### 👨‍🎓 Currently enrolled in Artificial Intelligence Software, Dongyang Mirae University (DMU)
   <br/>
 
   ## 📫 Contacts
