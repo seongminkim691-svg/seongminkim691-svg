@@ -38,7 +38,7 @@
   <img alt="SeongMin Kim's Github Stats" src="https://github-readme-stats-neon-ten-83.vercel.app/api?username=seongminkim691-svg&show_icons=true&hide=contribs"/> <br>
   
   - **Top Langs**<br>
-  <img alt="SeongminKim's GitHub Top langs" src="https://github-readme-stats-neon-ten-83.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&hide_border=false"/><br>
+  <img alt="SeongminKim's GitHub Top langs" src="https://github-readme-stats-neon-ten-83.vercel.app/api/top-langs/?username=seongminkim691-svg&show_icons=true&include_all_commits=true&hide_border=false"/><br>
   
   - **Baekjoon**<br>
    <img align="left" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mrmoono"></img><br>
